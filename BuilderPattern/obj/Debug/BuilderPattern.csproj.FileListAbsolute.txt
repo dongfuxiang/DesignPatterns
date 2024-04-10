@@ -1,0 +1,7 @@
+E:\VS_project\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+E:\VS_project\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+E:\VS_project\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+E:\VS_project\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+E:\VS_project\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\VS_project\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
+E:\VS_project\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb

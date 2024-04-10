@@ -1,0 +1,7 @@
+E:\VS_project\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+E:\VS_project\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+E:\VS_project\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+E:\VS_project\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+E:\VS_project\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\VS_project\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+E:\VS_project\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb

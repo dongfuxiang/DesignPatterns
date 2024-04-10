@@ -1,0 +1,2 @@
+E:\VS_project\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+E:\VS_project\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache

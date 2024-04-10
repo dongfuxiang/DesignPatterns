@@ -1,0 +1,7 @@
+E:\VS_project\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+E:\VS_project\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\VS_project\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\VS_project\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.csproj.AssemblyReference.cache
+E:\VS_project\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
+E:\VS_project\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.exe
+E:\VS_project\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.pdb
